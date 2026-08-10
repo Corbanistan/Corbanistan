@@ -86,23 +86,6 @@ Self-taught backyard coder and Bimmer tuner. I write code to learn and make my l
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Corbanistan&show_icons=true&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Corbanistan&show_icons=true&theme=default&hide_border=true">
-  <img alt="GitHub Stats" height="180" src="https://github-readme-stats.vercel.app/api?username=Corbanistan&show_icons=true&theme=tokyonight&hide_border=true">
-</picture>
-&nbsp;&nbsp;
-<!-- Top Languages Card -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Corbanistan&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Corbanistan&layout=compact&theme=default&hide_border=true">
-  <img alt="Top Languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Corbanistan&layout=compact&theme=tokyonight&hide_border=true">
-</picture>
-
-<br><br>
-
-<!-- Streak Stats Card -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=default&hide_border=true">
