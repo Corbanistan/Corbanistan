@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- Animated Header Banner — adaptive dark/light -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:512BD4&height=180&section=header&text=Corbanistan&fontSize=42&fontColor=ffffff&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:0078D4&height=180&section=header&text=Corbanistan&fontSize=42&fontColor=ffffff&animation=twinkling">
+  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:512BD4&height=180&section=header&text=Corbanistan&fontSize=42&fontColor=ffffff&animation=twinkling">
+</picture>
+
 <!-- Animated Typing SVG Header — adaptive dark/light -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=Backyard+Coder;Bimmer+Tuner;Licensed+Pilot">
@@ -85,6 +92,19 @@ Self-taught backyard coder and Bimmer tuner. I write code to learn and make my l
 ## 📊 GitHub Stats
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=Corbanistan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=Corbanistan&show_icons=true&theme=default&hide_border=true&count_private=true">
+  <img alt="GitHub Stats" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Corbanistan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Corbanistan&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Corbanistan&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Corbanistan&layout=compact&theme=tokyonight&hide_border=true">
+</picture>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
