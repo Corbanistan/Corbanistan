@@ -93,18 +93,17 @@ Self-taught backyard coder and Bimmer tuner. I write code to learn and make my l
 
 <div align="center">
 
+<img alt="GitHub Metrics" src="github-metrics.svg" width="90%">
+
+<br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=Corbanistan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api?username=Corbanistan&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Corbanistan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Corbanistan&layout=compact&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Corbanistan&layout=compact&theme=default&hide_border=true">
-  <img alt="Top Languages" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Corbanistan&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="github-snake.svg" width="90%">
 </picture>
 
-<br/>
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
