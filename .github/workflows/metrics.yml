@@ -29,6 +29,14 @@ jobs:
           config_theme: tokyonight
           output_action: none
 
+      - name: Move Metrics SVG to root
+        run: |
+          if [ -f metrics_renders/github-metrics.svg ]; then
+            mv metrics_renders/github-metrics.svg ./github-metrics.svg
+          elif [ -f /metrics_renders/github-metrics.svg ]; then
+            mv /metrics_renders/github-metrics.svg ./github-metrics.svg
+          fi
+
       - name: Generate Snake Animation
         uses: platane/snk/svg-only@v3
         with:
