@@ -26,16 +26,7 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: percentage, bytes-size
           plugin_languages_sections: most-used
-          config_theme: tokyonight
-          output_action: none
-
-      - name: Move Metrics SVG to root
-        run: |
-          if [ -f metrics_renders/github-metrics.svg ]; then
-            mv metrics_renders/github-metrics.svg ./github-metrics.svg
-          elif [ -f /metrics_renders/github-metrics.svg ]; then
-            mv /metrics_renders/github-metrics.svg ./github-metrics.svg
-          fi
+          output_action: commit
 
       - name: Generate Snake Animation
         uses: platane/snk/svg-only@v3
@@ -45,8 +36,8 @@ jobs:
             github-snake.svg
             github-snake-dark.svg?palette=github-dark
 
-      - name: Commit updated assets
+      - name: Commit snake assets
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update profile metrics & snake animation [skip ci]"
+          commit_message: "chore: update snake animation [skip ci]"
           file_pattern: "*.svg"
