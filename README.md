@@ -27,6 +27,8 @@ Self-taught backyard coder and Bimmer tuner. I write code to learn and make my l
 
 ---
 
+<div align="center">
+
 ## 🛠️ Tech Stack
 
 #### Languages I'm Decent At
@@ -58,6 +60,8 @@ Self-taught backyard coder and Bimmer tuner. I write code to learn and make my l
 ![TunerPro](https://img.shields.io/badge/TunerPro-2A9D8F?style=for-the-badge&logoColor=white)
 ![ISTA+](https://img.shields.io/badge/ISTA+-0066B1?style=for-the-badge&logoColor=white)
 ![BimmerCode](https://img.shields.io/badge/BimmerCode-4A90D9?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
