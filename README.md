@@ -1,6 +1,6 @@
-## 📊 GitHub Stats
-
 <div align="center">
+
+## 📊 GitHub Stats
 
 <img alt="GitHub Metrics" src="github-metrics.svg" width="90%">
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+<h2 align="center">🧑‍💻 About Me</h2>
 
 Self-taught backyard coder and Bimmer tuner. I write code to learn and make my life a little easier — if I need a tool and it doesn't exist, I build it. Most of my repos started as solutions to problems I ran into or as excuses to learn a new language or framework. When I'm not working my day job, enjoying a beer, or writing code, I'm probably elbow-deep in a BMW engine bay, mapping ECU definitions, or flying a Cessna somewhere.
 
@@ -65,7 +65,7 @@ Self-taught backyard coder and Bimmer tuner. I write code to learn and make my l
 
 ---
 
-## 📌 Featured Projects
+<h2 align="center">📌 Featured Projects</h2>
 
 <table>
   <tr>
