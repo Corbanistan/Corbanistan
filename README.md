@@ -7,14 +7,6 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="github-snake.svg" width="90%">
-</picture>
-
-<br/><br/>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=default&hide_border=true">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
