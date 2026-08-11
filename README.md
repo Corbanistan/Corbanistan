@@ -7,9 +7,9 @@
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=default&hide_border=true">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true&background=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=default&hide_border=true&background=00000000">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true&background=00000000">
 </picture>
 
 </div>
