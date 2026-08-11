@@ -29,6 +29,9 @@ jobs:
           repositories_affiliations: owner, collaborator
           output_action: commit
 
+      - name: Sync remote commits
+        run: git pull --rebase origin main
+
       - name: Generate Snake Animation
         uses: platane/snk/svg-only@v3
         with:
