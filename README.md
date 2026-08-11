@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-<img alt="GitHub Metrics" src="github-metrics.svg" width="90%">
+<img alt="GitHub Metrics" src="github-metrics.svg" width="60%">
 
 <br/><br/>
 
@@ -14,7 +14,7 @@
 
 </div>
 
----
+<br/><br/>
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
@@ -25,7 +25,7 @@ Self-taught backyard coder and Bimmer tuner. I write code to learn and make my l
 - 🏎️ **Passion:** BMW N54 engine tuning & ECU hacking
 - ✈️ **Fun fact:** I'm a licensed pilot
 
----
+<br/><br/>
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Self-taught backyard coder and Bimmer tuner. I write code to learn and make my l
 
 </div>
 
----
+<br/><br/>
 
 <h2 align="center">📌 Featured Projects</h2>
 
