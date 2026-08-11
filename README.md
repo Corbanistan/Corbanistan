@@ -1,17 +1,23 @@
+## 📊 GitHub Stats
+
 <div align="center">
 
-<!-- Animated Header Banner — adaptive dark/light -->
+<img alt="GitHub Metrics" src="github-metrics.svg" width="90%">
+
+<br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:512BD4&height=180&section=header&text=Corbanistan&fontSize=42&fontColor=ffffff&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,100:0078D4&height=180&section=header&text=Corbanistan&fontSize=42&fontColor=ffffff&animation=twinkling">
-  <img alt="Header Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:512BD4&height=180&section=header&text=Corbanistan&fontSize=42&fontColor=ffffff&animation=twinkling">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="github-snake.svg" width="90%">
 </picture>
 
-<!-- Animated Typing SVG Header — adaptive dark/light -->
+<br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=Backyard+Coder;Bimmer+Tuner;Licensed+Pilot">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=1A1B27&center=true&vCenter=true&width=500&height=60&lines=Backyard+Coder;Bimmer+Tuner;Licensed+Pilot">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&height=60&lines=Backyard+Coder;Bimmer+Tuner;Licensed+Pilot">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
 </picture>
 
 </div>
@@ -87,29 +93,3 @@ Self-taught backyard coder and Bimmer tuner. I write code to learn and make my l
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img alt="GitHub Metrics" src="github-metrics.svg" width="90%">
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="github-snake.svg" width="90%">
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Corbanistan&theme=default&hide_border=true">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Corbanistan&theme=tokyonight&hide_border=true">
-</picture>
-
-</div>
