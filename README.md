@@ -16,14 +16,14 @@
 
 <br/><br/>
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<h2 align="center">📝 Tidbits</h2>
 
-Self-taught backyard coder and Bimmer tuner. I write code to learn and make my life a little easier — if I need a tool and it doesn't exist, I build it. Most of my repos started as solutions to problems I ran into or as excuses to learn a new language or framework. When I'm not working my day job, enjoying a beer, or writing code, I'm probably elbow-deep in a BMW engine bay, mapping ECU definitions, or flying a Cessna somewhere.
-
-- 🔭 **Currently working on:** Windows & .NET apps, tools & utilities
-- 🌱 **Currently learning:** Rust
-- 🏎️ **Passion:** BMW N54 engine tuning & ECU hacking
-- ✈️ **Fun fact:** I'm a licensed pilot
+<p align="center">
+  🔭 <b>Currently working on:</b> Windows & .NET apps, tools & utilities<br/>
+  🌱 <b>Currently learning:</b> Rust<br/>
+  🏎️ <b>Passion:</b> BMW N54 engine tuning & ECU hacking<br/>
+  ✈️ <b>Fun fact:</b> I'm a licensed pilot
+</p>
 
 <br/><br/>
 
